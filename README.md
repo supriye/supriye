@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supriye Anand</h1>
 <h3 align="center">I’m interested in making the algorithm to solve the problem.</h3>
 
-- 🔭 I’m currently working on **Cryptography Project**
+- 🔭 I’m currently working on **EarthQuake Project**
 
 - 🌱 I’m currently learning **Rest Api,volley,Firebase**
 
