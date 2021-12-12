@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋, I'm Supriye Anand</h1>
 <h3 align="center">I’m interested in making the algorithm to solve the problem.</h3>
 
-- 🔭 I’m currently working on **Open Source Project**
+- 🔭 I’m currently working on **Final Year Project**
 
-- 🌱 I’m currently learning **Rest Api,volley,SQLite**
+- 🌱 I’m currently learning **Rest Api,volley,Retrofit..& lots of Stuff About Native App Dev**
 
 - 👯 I’m looking to collaborate on **any android project**
 
