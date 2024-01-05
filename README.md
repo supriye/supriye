@@ -1,14 +1,11 @@
-<div align="center">
-<img src="https://i.imgur.com/GD9JvBI.jpg" alt="Self learning">
-</div><br>
 <h1 align="center">Hi👋, I'm Supriye Anand</h1>
-<h3 align="center">I’m interested in making the algorithm to solve the problem.</h3>
+<h3 align="center">I’m interested in making the algorithm to solve the problems.</h3>
 
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently working as a **Software Engineer**
 
-- 🌱 I’m currently learning **Rest Api,volley,Retrofit..& lots of Stuff About Native App Dev**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript,React,Angular..& lots of Stuff About MERN Dev**
 
-- 👯 I’m looking to collaborate on **any android project**
+- 👯 I’m looking to collaborate on **any MERN project**
 
 - 💬 Ask me about **Anything Related To Tech,I Would Love To share My Thoughts.**
 
