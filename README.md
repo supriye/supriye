@@ -1,4 +1,7 @@
 <h1 align="center">Hi👋, I'm Supriye Anand</h1>
+<div align="center">
+<img src="https://i.imgur.com/GD9JvBI.jpg" alt="Self learning">
+</div><br>
 <h3 align="center">I’m interested in making the algorithm to solve the problem.</h3>
 
 - 🔭 I’m currently working on **Final Year Project**
