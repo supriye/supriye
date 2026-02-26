@@ -1,28 +1,91 @@
-<h1 align="center">Hi👋, I'm Supriye Anand</h1>
-<h3 align="center">I’m interested in making the algorithm to solve the problems.</h3>
+<h1 align="center">Hi 👋, I'm Supriye Anand</h1>
+<h3 align="center">🚀 .NET Full Stack Developer | Backend-Focused Problem Solver | React Enthusiast</h3>
 
-- 🔭 I’m currently working as a **Software Engineer**
-
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,React,Angular..& lots of Stuff About MERN Dev**
-
-- 👯 I’m looking to collaborate on **any MERN project**
-
-- 💬 Ask me about **Anything Related To Tech,I Would Love To share My Thoughts.**
-
-- 📫 How to reach me **supriyeanand50@gmail.com**
-
-- ⚡ Fun fact **I Think I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/supriye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supriye-anand" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/supriye anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supriye anand" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/supriye">
+    <img src="https://komarev.com/ghpvc/?username=supriye&label=Profile%20views&color=0e75b6&style=flat" alt="supriye" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://html.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="JavaScript" width="40" height="40"/> </a>
-<a href="https://react.dev/" target="_blank"> <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" alt="REACT" width="40" height="40"/> </a>
-<a href="https://redux.js.org/" target="_blank"> <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="REDUX" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
+---
+
+## 👨‍💻 About Me
+
+- 💼 Currently working as a **.NET Full Stack Developer** (3.5+ Years Experience)
+- 🔭 Building enterprise financial & investment management applications
+- ⚙️ Strong focus on **Backend Development, REST APIs & Database Optimization**
+- 🌱 Exploring **Azure Cloud Services & Microservices Architecture**
+- 👯 Open to collaborate on **.NET Core / React / Full Stack Projects**
+- 💬 Ask me about **C#, ASP.NET Core, Web Forms, SQL Server, React**
+- 📫 Reach me at **supriyeanand2504@gmail.com**
+- ⚡ Fun fact: I debug faster with coffee ☕😄
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+- C#
+- ASP.NET Core
+- ASP.NET MVC
+- Web Forms
+- REST APIs
+- Entity Framework
+- ADO.NET
+
+### 🎨 Frontend
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript
+- React
+- Razor Pages
+- Angular (Basics)
+
+### 🗄️ Database
+- SQL Server
+- MongoDB
+
+### ⚙️ DevOps & Tools
+- Git & GitHub
+- GitLab (CI/CD)
+- Jenkins (Basics)
+- Postman
+- Swagger
+- IIS
+- Visual Studio / VS Code
+
+### ☁️ Cloud
+- Microsoft Azure (Learning & Exploring)
+
+---
+
+## 🏢 Professional Experience
+
+### 💼 Software Developer (.NET Full Stack)
+**Empaxis Data Management India Pvt. Ltd. | Aug 2022 – Present**
+
+- Developed and maintained enterprise-grade financial applications
+- Designed and optimized SQL stored procedures handling large datasets
+- Built and consumed RESTful APIs
+- Implemented authentication & role-based authorization
+- Worked on async data loading, GridView sorting, pagination & reporting
+- Integrated MongoDB for logging & audit tracking
+- Resolved production issues in Agile environments
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/supriye" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supriye" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/supriye-anand" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supriye" height="30" width="40" />
+</a>
+</p>
+
+---
+
+⭐️ From [Supriye Anand](https://github.com/supriye)
