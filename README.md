@@ -26,4 +26,3 @@
 <a href="https://react.dev/" target="_blank"> <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" alt="REACT" width="40" height="40"/> </a>
 <a href="https://redux.js.org/" target="_blank"> <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="REDUX" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supriye&show_icons=true&theme=tokyonight&title_color=384d99&text_color=7a6262&bg_color=921717&locale=en&layout=compact" alt="supriye" /></p>
